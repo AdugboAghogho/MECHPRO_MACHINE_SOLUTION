@@ -1,0 +1,69 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 06 Nov 2024 12:15:54 at https://www.trueblueenergy.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.trueblueenergy.com/ -O1 "C:\Users\cboy\Downloads\dav3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:16:13	Warning: 	Note: due to https://www.trueblueenergy.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+12:18:45	Error: 	"Not Found" (404) at link https://demo.creativesplanet.com/enginir/enginir-datasite/wp-content/uploads/sites/9/2019/02/img-06.jpg?id=10017 (from https://www.trueblueenergy.com/)
+12:19:55	Error: 	"Not Found" (404) at link https://www.trueblueenergy.com/contact-us/ (from https://www.trueblueenergy.com/)
+12:20:27	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=8549
+12:20:27	Warning: 	File has moved from https://www.trueblueenergy.com/?p=8549 to https://www.trueblueenergy.com/about-us/
+12:20:28	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=8560
+12:20:28	Warning: 	File has moved from https://www.trueblueenergy.com/?p=8560 to https://www.trueblueenergy.com/services/
+12:20:28	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=7545
+12:20:28	Warning: 	File has moved from https://www.trueblueenergy.com/?p=7545 to https://www.trueblueenergy.com/service/lifting-inspection/
+12:20:28	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=7543
+12:20:28	Warning: 	File has moved from https://www.trueblueenergy.com/?p=7543 to https://www.trueblueenergy.com/service/crane-management-services/
+12:20:28	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=7349
+12:20:28	Warning: 	File has moved from https://www.trueblueenergy.com/?p=7349 to https://www.trueblueenergy.com/service/plant-equipment-inspection/
+12:20:28	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=7541
+12:20:28	Warning: 	File has moved from https://www.trueblueenergy.com/?p=7541 to https://www.trueblueenergy.com/service/hose-management-services/
+12:20:28	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=8850
+12:20:28	Warning: 	File has moved from https://www.trueblueenergy.com/?p=8850 to https://www.trueblueenergy.com/service/epci-services/
+12:20:29	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=7558
+12:20:29	Warning: 	File has moved from https://www.trueblueenergy.com/?p=7558 to https://www.trueblueenergy.com/service/asset-integrity-management/
+12:20:29	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=7556
+12:20:29	Warning: 	File has moved from https://www.trueblueenergy.com/?p=7556 to https://www.trueblueenergy.com/service/commissioning-services/
+12:20:29	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=7560
+12:20:29	Warning: 	File has moved from https://www.trueblueenergy.com/?p=7560 to https://www.trueblueenergy.com/service/lightning-surge-grounding-solutions/
+12:20:29	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=8847
+12:20:29	Warning: 	File has moved from https://www.trueblueenergy.com/?p=8847 to https://www.trueblueenergy.com/service/fabrication-and-machine-shop-services/
+12:20:29	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11482
+12:20:29	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11482 to https://www.trueblueenergy.com/service/workshop-services/
+12:20:29	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11753
+12:20:29	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11753 to https://www.trueblueenergy.com/service/testing-and-recertification-of-load-cells-and-load-blocks/
+12:20:30	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11761
+12:20:30	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11761 to https://www.trueblueenergy.com/service/zollern-services/
+12:20:30	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11501
+12:20:30	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11501 to https://www.trueblueenergy.com/service/opito-training/
+12:20:35	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11524
+12:20:35	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11524 to https://www.trueblueenergy.com/service/compex-training/
+12:20:36	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11517
+12:20:36	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11517 to https://www.trueblueenergy.com/service/dpr-mistdo-training/
+12:20:36	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11508
+12:20:36	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11508 to https://www.trueblueenergy.com/service/city-and-guilds-training/
+12:20:36	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11545
+12:20:36	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11545 to https://www.trueblueenergy.com/service/augmented-reality-welding-training/
+12:20:37	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=8585
+12:20:37	Warning: 	File has moved from https://www.trueblueenergy.com/?p=8585 to https://www.trueblueenergy.com/blog/
+12:20:38	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=8593
+12:20:38	Warning: 	File has moved from https://www.trueblueenergy.com/?p=8593 to https://www.trueblueenergy.com/contact/
+12:20:39	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11572
+12:20:39	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11572 to https://www.trueblueenergy.com/2021/11/21/oil-dives-3-to-below-80-bbl-on-resurgent-pandemic-in-europe/
+12:20:39	Error: 	"Method Not Allowed" (405) at link https://www.trueblueenergy.com/xmlrpc.php (from https://www.trueblueenergy.com/2021/11/21/oil-dives-3-to-below-80-bbl-on-resurgent-pandemic-in-europe/)
+12:20:41	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11569
+12:20:41	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11569 to https://www.trueblueenergy.com/2021/11/21/how-nigeria-can-tap-53trillion-global-esg-fund-for-oil-projects/
+12:20:41	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11567
+12:20:41	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11567 to https://www.trueblueenergy.com/2021/11/21/fg-insists-nigeria-on-track-towards-investment-in-oil-gas-sector/
+12:20:42	Warning: 	Note: due to www.trueblueenergy.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+12:20:42	Warning: 	File not parsed, looks like binary: www.trueblueenergy.com/wp-content/plugins/revslider/sr6/assets/css/openhand.cur
+12:20:42	Warning: 	File not parsed, looks like binary: www.trueblueenergy.com/wp-content/plugins/revslider/sr6/assets/css/closedhand.cur
+12:20:42	Warning: 	Moved Permanently for https://www.trueblueenergy.com/?p=11609
+12:20:42	Warning: 	File has moved from https://www.trueblueenergy.com/?p=11609 to https://www.trueblueenergy.com/enroll-now/
+12:20:42	Error: 	"Not Found" (404) at link https://www.trueblueenergy.com/wp-json/wp/v2/users/3 (from https://www.trueblueenergy.com/author/trueblueenegy/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 43 seconds : 369 links scanned, 338 files written (18764977 bytes overall) [17394046 bytes received at 61463 bytes/sec], 2215701 bytes transferred using HTTP compression in 30 files, ratio 29%, 7.7 requests per connection
+(4 errors, 54 warnings, 0 messages)
